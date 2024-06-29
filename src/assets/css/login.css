@@ -1,0 +1,22 @@
+@import url("root.css");
+
+.car-bg {
+  background-image: linear-gradient(rgba(7, 7, 104, 0.3), rgba(7, 7, 104, 0.3)), url("../images/car-login.svg");
+  background-size: cover;
+  object-fit: cover;
+}
+
+.card-login {
+  border: 0;
+}
+
+.card-login .card-header {
+border: 0;
+background: transparent;
+}
+
+.logo-login {
+  width: 100px;
+  height: 34px;
+  margin-bottom: 5%;
+}
